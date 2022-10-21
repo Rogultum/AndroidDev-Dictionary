@@ -1,4 +1,4 @@
-# AndroidDev-Learning-Dice-Roller
+# AndroidDev-Dictionary
 
 **This app is made with the help of of Google's Android Development Program**
 
